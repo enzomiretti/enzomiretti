@@ -40,7 +40,7 @@ Tecnologías: Node.js, Express, MySQL, Vite.
 
 🔹 **[Integrador Final Vuelos](https://github.com/enzomiretti/IntegradorFinalVuelos_MirettiEnzo)**  
 _Sistema de gestión de vuelos y reservas._  
-Tecnologías: Java, Spring Boot.
+Tecnologías: Java, Spring Boot, MySQL.
 
 🔹 **[Proyecto Integrador Swing](https://github.com/enzomiretti/ProyectoIntegradorSwing)**  
 _Aplicación Java con Swing para reservas de vuelos._
@@ -137,9 +137,6 @@ _Aplicación fullstack con Django backend y React frontend._
 
 💼 **LinkedIn:**
 [https://www.linkedin.com/in/enzomiretti/](https://www.linkedin.com/in/enzomiretti/)
-
-📸 **Instagram:**
-*(Si querés pasarme tu usuario lo agrego)*
 
 ---
 
