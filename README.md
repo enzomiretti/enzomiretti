@@ -1,6 +1,6 @@
-# 👨‍💻 ENZO MIRETTI
+<h1 align="center">👨‍💻 ENZO MIRETTI</h1>
 
-**Software Developer | 🇦🇷 Mendoza, Argentina**
+<p align="center"><b>Software Developer | 🇦🇷 Mendoza, Argentina</b></p>
 
 ---
 
@@ -139,7 +139,8 @@ _Aplicación fullstack con Django backend y React frontend._
 [https://www.linkedin.com/in/enzomiretti/](https://www.linkedin.com/in/enzomiretti/)
 
 ---
+<p align="center">
+  <b>“El progreso nace de la pasión por aprender y la determinación por mejorar cada día. Los grandes resultados no se improvisan: se construyen con esfuerzo, curiosidad y constancia.”</b>
+</p>
 
-> **“El progreso nace de la pasión por aprender y la determinación por mejorar cada día. Los grandes resultados no se improvisan: se construyen con esfuerzo, curiosidad y constancia.”**
-
-✨ ¡Gracias por visitar mi perfil!
+<p align="center">✨ ¡Gracias por visitar mi perfil!</p>
