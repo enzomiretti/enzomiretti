@@ -1,71 +1,148 @@
-# 👋 Hola, soy Enzo Miretti
+# 👨‍💻 ENZO MIRETTI
 
-🎯 Desarrollador Full Stack con foco en proyectos de infraestructura, automatización y aplicaciones web modernas.
-
-Me apasiona crear soluciones completas que integren backend, frontend y despliegue en la nube o entornos locales con Kubernetes.
+**Software Developer | 🇦🇷 Mendoza, Argentina**
 
 ---
 
-## 🚀 Tecnologías y herramientas que utilizo
+## 🚀 Perfil Profesional
 
-- **Backend:** Node.js, Express, Java Spring Boot, Python Django
-- **Frontend:** React, Vite
-- **Bases de datos:** MySQL, MongoDB, Neo4j, MariaDB
-- **Contenedores y Cloud:** Docker, Kubernetes, Minikube
-- **Control de versiones:** Git y GitHub
-- **Otras herramientas:** Git Bash, Postman, IntelliJ IDEA
+Soy estudiante avanzado de Desarrollo de Software en la Universidad Nacional de Cuyo - ITU.  
+Entusiasta de la programación, la tecnología en la nube y la seguridad informática.  
 
----
+Tengo experiencia práctica en desarrollo de aplicaciones, administración de bases de datos, redes y entornos virtualizados con Kubernetes.  
 
-## 📂 Algunos de mis proyectos destacados
-
-🔹 **[GolGana](https://github.com/enzomiretti/GolGana)**
-> Plataforma de reserva de canchas deportivas.  
-> Full Stack Node.js + MySQL + JWT + Vite.
-
-🔹 **[Integrador Final Vuelos](https://github.com/enzomiretti/IntegradorFinalVuelos_MirettiEnzo)**
-> Sistema de gestión de vuelos y reservas en Java Spring Boot.
-
-🔹 **[Despliegue Kubernetes](https://github.com/enzomiretti/K8S_Cloud_Computing)**
-> Sitio web estático desplegado automáticamente en Minikube.
-
-🔹 **[0311AT](https://github.com/enzomiretti/0311AT)**
-> Despliegue automatizado de un sitio web en Kubernetes con Minikube y Bash Script.
-
-🔹 **[Proyecto Integrador Swing](https://github.com/enzomiretti/ProyectoIntegradorSwing)**
-> Aplicación Java con Swing para gestión de reservas de vuelos.
+Mi objetivo es sumarme a un equipo profesional donde pueda aplicar mis habilidades, aprender constantemente y aportar soluciones innovadoras que generen valor.
 
 ---
 
-## 🛠️ Proyecto Python Django + React
+## 🎓 Formación Académica
 
-🔹 **En desarrollo:**  
-Estoy trabajando en un proyecto que integra **Python Django** en el backend y **React** en el frontend.  
-Este sistema permitirá gestionar contenido dinámico con APIs REST y un panel de administración avanzado.
-
-Próximamente estará disponible en este perfil.
+| Carrera                                               | Institución                               | Años                  |
+|-------------------------------------------------------|-------------------------------------------|-----------------------|
+| Tecnicatura en Desarrollo de Software                | Universidad Nacional de Cuyo              | 2023 – Actualidad     |
+| Contador Público Nacional (incompleto)               | Universidad Champagnat                    | 2020 – 2021           |
 
 ---
 
-## 🌐 ¿Cómo contactarme?
+## 📜 Certificaciones y Cursos
+
+- ☁️ **AWS Academy Graduate – AWS Academy Cloud Developing**
+- ☁️ **AWS Academy Graduate – AWS Academy Cloud Foundations**
+- 🐍 **CoderHouse – Python**
+
+---
+
+## 💻 Proyectos Destacados
+
+🔹 **[GolGana](https://github.com/enzomiretti/GolGana)**  
+_Plataforma de reserva de canchas deportivas._  
+Tecnologías: Node.js, Express, MySQL, Vite.
+
+🔹 **[Integrador Final Vuelos](https://github.com/enzomiretti/IntegradorFinalVuelos_MirettiEnzo)**  
+_Sistema de gestión de vuelos y reservas._  
+Tecnologías: Java, Spring Boot.
+
+🔹 **[Proyecto Integrador Swing](https://github.com/enzomiretti/ProyectoIntegradorSwing)**  
+_Aplicación Java con Swing para reservas de vuelos._
+
+🔹 **[Despliegue Kubernetes](https://github.com/enzomiretti/K8S_Cloud_Computing)**  
+_Sitio estático desplegado en Kubernetes con Minikube._
+
+🔹 **[0311AT](https://github.com/enzomiretti/0311AT)**  
+_Script Bash para despliegue automático de sitio web en Kubernetes._
+
+🔹 **Proyecto Python Django + React (en desarrollo)**  
+_Aplicación fullstack con Django backend y React frontend._
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### 🖥️ Lenguajes de Programación
+
+**Frontend**
+- JavaScript
+- HTML
+- CSS
+
+**Backend**
+- Java
+- Python
+- C++
+- Node.js
+
+---
+
+### 🗄️ Bases de Datos
+- MySQL
+- MongoDB
+- Neo4j
+
+---
+
+### ⚙️ Frameworks y Librerías
+- Spring Boot
+- Hibernate
+- Django
+- React
+- Vite
+
+---
+
+### 🧰 Herramientas y Plataformas
+- Docker
+- Kubernetes
+- Minikube
+- Git
+- Postman
+- VirtualBox
+- Dev C++
+- Visual Studio
+- Visual Studio Code
+- NetBeans
+- IntelliJ IDEA
+- MySQL Workbench
+- XAMPP
+- Enterprise Architect
+
+---
+
+## 🧠 Habilidades Blandas
+- Resolución de problemas
+- Adaptabilidad y aprendizaje continuo
+- Trabajo en equipo y colaboración
+- Comunicación efectiva
+
+---
+
+## 🌍 Idiomas
+- Español: Nativo
+- Inglés: B1/B2 (Intermedio Avanzado)
+
+---
+
+## 🌱 Actualmente Aprendiendo
+- **Enterprise Architect**
+- **C# .NET**
+- **WordPress**
+- **Inteligencia Artificial con Python**
+
+---
+
+## 📫 Contacto
 
 📧 **Emails:**
 - enzoagustinakd@gmail.com
 - enzomiretti17@gmail.com
 
-💼 **LinkedIn:**  
+💼 **LinkedIn:**
 [https://www.linkedin.com/in/enzomiretti/](https://www.linkedin.com/in/enzomiretti/)
 
-Si te interesa colaborar, no dudes en escribirme. 🚀
+📸 **Instagram:**
+*(Si querés pasarme tu usuario lo agrego)*
 
 ---
 
-## 🎯 Objetivos
+> **“El progreso nace de la pasión por aprender y la determinación por mejorar cada día. Los grandes resultados no se improvisan: se construyen con esfuerzo, curiosidad y constancia.”**
 
-✅ Seguir aprendiendo tecnologías Cloud Native.  
-✅ Consolidar experiencia profesional en desarrollo e infraestructura.  
-✅ Aportar valor a proyectos con impacto real.  
-
----
-
-✨ Gracias por visitar mi perfil.
+✨ ¡Gracias por visitar mi perfil!
