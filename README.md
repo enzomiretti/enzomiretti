@@ -51,9 +51,9 @@ _Sitio estático desplegado en Kubernetes con Minikube._
 🔹 **[0311AT](https://github.com/enzomiretti/0311AT)**  
 _Script Bash para despliegue automático de sitio web en Kubernetes._
 
-🔹 **Proyecto Python Django + React (en desarrollo)**  
-_Aplicación fullstack con Django backend y React frontend._
-
+🔹 **[Comparador de Criptomonedas](https://github.com/enzomiretti/ComparadorCriptomonedas)**  
+_Aplicación fullstack Django + React para visualizar y comparar precios de criptomonedas en tiempo real._  
+Tecnologías: Django, React, Vite, Chart.js.
 ---
 
 ## 🛠️ Habilidades Técnicas
