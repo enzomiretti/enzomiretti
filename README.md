@@ -17,10 +17,31 @@ Mi objetivo es sumarme a un equipo profesional donde pueda aplicar mis habilidad
 
 ## 🎓 Formación Académica
 
-| Carrera                                               | Institución                               | Años                  |
-|-------------------------------------------------------|-------------------------------------------|-----------------------|
-| Tecnicatura en Desarrollo de Software                | Universidad Nacional de Cuyo              | 2023 – Actualidad     |
-| Contador Público Nacional (incompleto)               | Universidad Champagnat                    | 2020 – 2021           |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Carrera</th>
+      <th>Institución</th>
+      <th>Años</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tecnicatura en Desarrollo de Software</td>
+      <td>Universidad Nacional de Cuyo</td>
+      <td>2023 – Actualidad</td>
+    </tr>
+    <tr>
+      <td>Contador Público Nacional (incompleto)</td>
+      <td>Universidad Champagnat</td>
+      <td>2020 – 2021</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -52,8 +73,9 @@ _Sitio estático desplegado en Kubernetes con Minikube._
 _Script Bash para despliegue automático de sitio web en Kubernetes._
 
 🔹 **[Comparador de Criptomonedas](https://github.com/enzomiretti/ComparadorCriptomonedas)**  
-_Aplicación fullstack Django + React para visualizar y comparar precios de criptomonedas en tiempo real._  
+_Aplicación fullstack Django + React que consume una API externa para visualizar y comparar precios de criptomonedas en tiempo real._  
 Tecnologías: Django, React, Vite, Chart.js.
+
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -139,6 +161,7 @@ Tecnologías: Django, React, Vite, Chart.js.
 [https://www.linkedin.com/in/enzomiretti/](https://www.linkedin.com/in/enzomiretti/)
 
 ---
+
 <p align="center">
   <b>“El progreso nace de la pasión por aprender y la determinación por mejorar cada día. Los grandes resultados no se improvisan: se construyen con esfuerzo, curiosidad y constancia.”</b>
 </p>
