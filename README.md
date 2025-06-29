@@ -117,7 +117,7 @@ _Aplicación fullstack con Django backend y React frontend._
 
 ## 🌍 Idiomas
 - Español: Nativo
-- Inglés: B1/B2 (Intermedio Avanzado)
+- Inglés: B1 (Avanzado)
 
 ---
 
